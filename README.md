@@ -1,8 +1,5 @@
 # Finding missing people through AI
 
-### Please read the LICENCE before using this project.
-
-## UPDATE: V3 is in progress (to be released before mid September, 2020).
 #### New changes
 1. Support for MongoDB
 2. GUI for Mobile Application (using Kivy or PyQt5)
@@ -69,10 +66,3 @@ How to start the project?
 5. Type python main.py
 6. If everything is fine you'll see a GUI window in few seconds.
  
-## Contributions
-I'm looking for people who can help me in developing a web app for it.
-The app needs to be redesigned due to lot of performance constrains. 
-
-#### Vote of Thanks
-- Thanks to [Davis King](https://github.com/davisking) for creating dlib and for providing the trained facial feature
-  detection and face encoding models used in this project.
